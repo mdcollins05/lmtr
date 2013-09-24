@@ -1,5 +1,8 @@
 This is just a basic script for the time being.
 
+Runs like so:
+./lmtr.sh (any args for MTR) domain/IP
+
 Future plans include:
 -Separate MTR and lMTR command line arguments
 -Multiple methods of storing MTR output (per run, per (hour/day/etc.), named files, etc.)
